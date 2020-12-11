@@ -4,20 +4,20 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
 
-# Coming soon
+# Mergaite
 ### Arturas 404 ERROR  website project
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
 
-https://arturas-vei.github.io/6-coming-soon/
+
+https://github.com/arturas-vei/mergaite3
+
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project features
--css components
--html components
+
 - css components
 - html components
 
 ## Authors
-[Arturas](https://github.com/arturas-vei/mergaite3)
+[Arturas]
