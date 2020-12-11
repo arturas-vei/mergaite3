@@ -10,7 +10,7 @@
 
 
 
-https://github.com/arturas-vei/mergaite3
+https://arturas-vei.github.io/mergaite3/
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
